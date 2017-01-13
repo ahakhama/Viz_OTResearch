@@ -1,7 +1,7 @@
 # Visualization of a Research Database in Occupational Therapy Foundation and American Occupational Therapy Association
 1982-2016
 
-![Infographic](Viz_OTResearch/images/OT Infographic.pdf)
+![Infographic](https://github.com/alyez/Viz_OTResearch/images/OT Infographic.pdf)
 
 
 ### Project Team
@@ -60,7 +60,7 @@ Non Federal Funding (Division, Grant #, Direct Costs, Total Funding)
 #####Research Project Details: 
 Diagnoses, Ages, Practice Settings, ICF Category, Research Agenda Category
 
-### [Source Files](https://github.iu.edu/yyezeret/Viz_OTResearch/tree/master/data%20source)
+### [Source Files](https://github.com/alyez/Viz_OTResearch/data%20source)
 These are files consisted of initial data file provided by the client and subesquent files derived from it after cleansing and deduplication of the data
 
 ### Referenced Tools
@@ -77,10 +77,10 @@ The list of tools used to create visualizations
 [5] [Tableau Public Software] (https://public.tableau.com/s/download)
 
 
-### [Images](https://github.iu.edu/yyezeret/Viz_OTResearch/tree/master/images)
+### [Images](https://github.com/alyez/Viz_OTResearch/images)
 The list of folders respective to the visualization types created for this project
 
-### [Project write-ups](https://github.iu.edu/yyezeret/Viz_OTResearch/tree/master/write-up)
+### [Project write-ups](https://github.com/alyez/Viz_OTResearch/write-up)
 Thw write-up the group provided for the IVMOOC class including feedback from the peers and the client
 # Viz_OTResearch
 
