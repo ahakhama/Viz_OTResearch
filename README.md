@@ -1,7 +1,7 @@
 # Visualization of a Research Database in Occupational Therapy Foundation and American Occupational Therapy Association
 1982-2016
 
-![Infographic](https://github.com/alyez/Viz_OTResearch/tree/master/images/OT%20Infographic.pdf)
+![Infographic](https://github.com/alyez/Viz_OTResearch/blob/master/images/TopicalWordCloud.pdf)
 
 
 ### Project Team
